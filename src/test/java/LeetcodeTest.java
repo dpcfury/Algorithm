@@ -1,6 +1,6 @@
-import com.dpc.algorithm.leetcode.BinaryTreeMaximumPathSum_123;
 import com.dpc.algorithm.leetcode.MergekSortedLists_23;
 import com.dpc.algorithm.leetcode.datastructure.ListNode;
+import com.dpc.algorithm.leetcode.MinimumWindowSubstring_76;
 import org.junit.Test;
 
 public class LeetcodeTest {
@@ -37,5 +37,13 @@ public class LeetcodeTest {
         }
 
 
+    }
+
+    @Test
+    public void testMimalWindowSubString() {
+        String s = "ADOBECODEBANC";
+        String t = "ABC";
+        MinimumWindowSubstring_76 m = new MinimumWindowSubstring_76();
+        System.out.println(m.minWindow(s, t));
     }
 }
