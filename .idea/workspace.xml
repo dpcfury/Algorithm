@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53584de7-878a-4928-83be-5e06e3e10a6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/datastructure/MinimumWindowSubstring_76.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dpc/algorithm/leetcode/MergekSortedLists_23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dpc/algorithm/leetcode/MergekSortedLists_23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LeetcodeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LeetcodeTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -61,6 +57,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
+          <entry key="gitignore" value="1" />
           <entry key="java" value="7" />
         </counts>
       </usages-collector>
@@ -68,17 +65,20 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="JAVA" value="7" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7531" />
+          <entry key="gitignore" value="63" />
+          <entry key="java" value="7532" />
           <entry key="xml" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7531" />
+          <entry key="JAVA" value="7532" />
+          <entry key="PLAIN_TEXT" value="63" />
           <entry key="XML" value="35" />
         </counts>
       </usages-collector>
@@ -110,11 +110,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            <state relative-caret-position="666">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -143,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/datastructure/MinimumWindowSubstring_76.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -240,7 +250,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543478687307" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543481754272" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/dev_env/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
@@ -309,7 +319,7 @@
       <updated>1542763368047</updated>
       <workItem from="1542763373151" duration="8145000" />
       <workItem from="1542848658225" duration="11783000" />
-      <workItem from="1543453402028" duration="14576000" />
+      <workItem from="1543453402028" duration="15771000" />
     </task>
     <servers />
   </component>
@@ -346,7 +356,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34504000" />
+    <option name="totallyTimeSpent" value="35699000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1861" height="1096" extended-state="6" />
@@ -484,8 +494,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state relative-caret-position="666">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>
