@@ -1,0 +1,8 @@
+# out folder
+out/
+
+# idea setting
+.idea/
+
+#target
+target/

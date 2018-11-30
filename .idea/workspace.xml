@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="32c029ad-8e44-4f80-8fe6-0cbb00ba0047" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
@@ -8,6 +9,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/datastructure/MinimumWindowSubstring_76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java" afterDir="false" />
+=======
+    <list default="true" id="53584de7-878a-4928-83be-5e06e3e10a6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" afterDir="false" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,22 +37,79 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="java" value="1" />
+=======
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="470" />
+          <entry key="xml" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="470" />
+          <entry key="XML" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="901614445">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="9" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+<<<<<<< HEAD
+          <entry key="JAVA" value="1" />
+=======
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="9" />
+          <entry key="PLAIN_TEXT" value="1" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="java" value="4" />
+=======
+          <entry key="gitignore" value="63" />
+          <entry key="java" value="8579" />
+          <entry key="xml" value="35" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+<<<<<<< HEAD
           <entry key="JAVA" value="4" />
+=======
+          <entry key="JAVA" value="8579" />
+          <entry key="PLAIN_TEXT" value="63" />
+          <entry key="XML" value="35" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
         </counts>
       </usages-collector>
     </session>
@@ -53,10 +117,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1798">
               <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/test/java/LeetcodeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,7 +135,22 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="539">
+              <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,7 +158,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/BinaryTreeMaximumPathSum_123.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MergekSortedLists_23.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/datastructure/MinimumWindowSubstring_76.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
       </list>
     </option>
   </component>
@@ -102,9 +201,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+=======
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,7 +250,11 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+=======
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -161,14 +267,35 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543583978621" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/dev_env/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev_code\java\Algorithm\src\main\java\com\dpc\algorithm\leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev_code\java\Algorithm\src\main\java" />
+    </key>
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -182,6 +309,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -214,10 +342,66 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
+=======
+  <component name="RunManager" selected="JUnit.LeetcodeTest.testRegularExpressionMatching">
+    <configuration name="LeetcodeTest.testMergeKSortedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTest" />
+      <option name="METHOD_NAME" value="testMergeKSortedList" />
+      <option name="TEST_OBJECT" value="method" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
+    <configuration name="LeetcodeTest.testMimalWindowSubString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTest" />
+      <option name="METHOD_NAME" value="testMimalWindowSubString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetcodeTest.testRegularExpressionMatching" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTest" />
+      <option name="METHOD_NAME" value="testRegularExpressionMatching" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetcodeTest.testSubString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTest" />
+      <option name="METHOD_NAME" value="testSubString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LeetcodeTest.testMergeKSortedList" />
+      <item itemvalue="JUnit.LeetcodeTest.testMimalWindowSubString" />
+      <item itemvalue="JUnit.LeetcodeTest.testSubString" />
+      <item itemvalue="JUnit.LeetcodeTest.testRegularExpressionMatching" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LeetcodeTest.testRegularExpressionMatching" />
+        <item itemvalue="JUnit.LeetcodeTest.testSubString" />
+        <item itemvalue="JUnit.LeetcodeTest.testMimalWindowSubString" />
+        <item itemvalue="JUnit.LeetcodeTest.testMergeKSortedList" />
+      </list>
+    </recent_temporary>
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -228,6 +412,7 @@
       <created>1543331156558</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1543331156558</updated>
       <workItem from="1543331157981" duration="788000" />
       <workItem from="1543332046010" duration="741000" />
@@ -237,12 +422,60 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="1666000" />
+=======
+      <updated>1542763368047</updated>
+      <workItem from="1542763373151" duration="8145000" />
+      <workItem from="1542848658225" duration="11783000" />
+      <workItem from="1543453402028" duration="17410000" />
+      <workItem from="1543541683902" duration="19586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 11m 09s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 12m 10s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 17m 39s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 17m 52s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 04s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 13s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 23s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 33s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 43s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 19m 34s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56924000" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25763464" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,8 +484,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45042193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33333334" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -260,6 +498,10 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
+<<<<<<< HEAD
+=======
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32911393" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -280,14 +522,123 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="1798">
           <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+=======
+        <state relative-caret-position="301">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="162" column="45" lean-forward="true" selection-start-line="162" selection-start-column="45" selection-end-line="162" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/BinaryTreeMaximumPathSum_123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MergekSortedLists_23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/bstation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LeetcodeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 7348ee9189228ac041af95827b88b4f55e6f0f3b
   </component>
   <component name="masterDetails">
     <states>

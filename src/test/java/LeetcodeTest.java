@@ -1,6 +1,7 @@
-import com.dpc.algorithm.leetcode.BinaryTreeMaximumPathSum_123;
 import com.dpc.algorithm.leetcode.MergekSortedLists_23;
+import com.dpc.algorithm.leetcode.RegularExpressionMatching_10;
 import com.dpc.algorithm.leetcode.datastructure.ListNode;
+import com.dpc.algorithm.leetcode.MinimumWindowSubstring_76;
 import org.junit.Test;
 
 public class LeetcodeTest {
@@ -37,5 +38,29 @@ public class LeetcodeTest {
         }
 
 
+    }
+
+    @Test
+    public void testMimalWindowSubString() {
+        String s = "ADOBECODEBANC";
+        String t = "ABC";
+        MinimumWindowSubstring_76 m = new MinimumWindowSubstring_76();
+        System.out.println(m.minWindow(s, t));
+    }
+
+    @Test
+    public void testSubString() {
+        String s = "abcdefg";
+        System.out.println(s.substring(7));
+    }
+
+    @Test
+    public void testRegularExpressionMatching() {
+        String s = "aaaaaaaaaaaaab";
+        String p = "a*a*a*a*a*a*a*a*a*a*c";
+
+
+        RegularExpressionMatching_10 r = new RegularExpressionMatching_10();
+        System.out.println(r.isMatch(s, p));
     }
 }
