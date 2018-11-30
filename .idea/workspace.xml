@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53584de7-878a-4928-83be-5e06e3e10a6d" name="Default Changelist" comment="" />
+    <list default="true" id="53584de7-878a-4928-83be-5e06e3e10a6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,36 +49,37 @@
     <session id="901614445">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="8" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="7" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="7" />
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="9" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="63" />
-          <entry key="java" value="7532" />
+          <entry key="java" value="8579" />
           <entry key="xml" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7532" />
+          <entry key="JAVA" value="8579" />
           <entry key="PLAIN_TEXT" value="63" />
           <entry key="XML" value="35" />
         </counts>
@@ -83,23 +88,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/LeetcodeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+            <state relative-caret-position="585">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,17 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="539">
+              <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -145,11 +129,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/BinaryTreeMaximumPathSum_123.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MergekSortedLists_23.java" />
-        <option value="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/datastructure/MinimumWindowSubstring_76.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LeetcodeTest.java" />
       </list>
     </option>
   </component>
@@ -172,7 +156,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="199" />
     <option name="y" value="73" />
     <option name="width" value="1859" />
@@ -183,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,12 +225,13 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543493716783" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543583978621" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/dev_env/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
@@ -272,7 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LeetcodeTest.testMimalWindowSubString">
+  <component name="RunManager" selected="JUnit.LeetcodeTest.testRegularExpressionMatching">
     <configuration name="LeetcodeTest.testMergeKSortedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="PACKAGE_NAME" value="" />
@@ -293,12 +277,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeetcodeTest.testRegularExpressionMatching" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTest" />
+      <option name="METHOD_NAME" value="testRegularExpressionMatching" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetcodeTest.testSubString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeetcodeTest" />
+      <option name="METHOD_NAME" value="testSubString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.LeetcodeTest.testMergeKSortedList" />
       <item itemvalue="JUnit.LeetcodeTest.testMimalWindowSubString" />
+      <item itemvalue="JUnit.LeetcodeTest.testSubString" />
+      <item itemvalue="JUnit.LeetcodeTest.testRegularExpressionMatching" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetcodeTest.testRegularExpressionMatching" />
+        <item itemvalue="JUnit.LeetcodeTest.testSubString" />
         <item itemvalue="JUnit.LeetcodeTest.testMimalWindowSubString" />
         <item itemvalue="JUnit.LeetcodeTest.testMergeKSortedList" />
       </list>
@@ -316,50 +324,50 @@
       <updated>1542763368047</updated>
       <workItem from="1542763373151" duration="8145000" />
       <workItem from="1542848658225" duration="11783000" />
-      <workItem from="1543453402028" duration="16802000" />
+      <workItem from="1543453402028" duration="17410000" />
+      <workItem from="1543541683902" duration="19586000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 26m 06s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 11m 09s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 27m 50s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 12m 10s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 27m 53s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 17m 39s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 31m 06s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 17m 52s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 32m 50s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 04s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 35m 19s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 13s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 50m 08s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 23s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 50m 44s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 33s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 51m 25s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 18m 43s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LeetcodeTest_testMimalWindowSubString - 2018.11.29 at 15h 52m 59s.xml">
-      <configuration name="LeetcodeTest.testMimalWindowSubString" configurationId="JUnit" />
+    <history-entry file="LeetcodeTest_testRegularExpressionMatching - 2018.11.30 at 21h 19m 34s.xml">
+      <configuration name="LeetcodeTest.testRegularExpressionMatching" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36730000" />
+    <option name="totallyTimeSpent" value="56924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1861" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2548584" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25763464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -368,8 +376,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37236288" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45042193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33333334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -455,6 +463,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#870#1063#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -462,41 +512,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+        <state relative-caret-position="539">
+          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/LeetcodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/RegularExpressionMatching_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/dpc/algorithm/leetcode/MinimumWindowSubstring_76.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+        <state relative-caret-position="585">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
